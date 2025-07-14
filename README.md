@@ -4,13 +4,13 @@
 <img src="https://github.com/DharmikUmretiya/dharmikumretiya/blob/main/main/Hi%20%2CI%20am%20Dharmik.png" alt="Banner" width="100%" />
 
 ### My CP Profile
-
+---
 **Codeforces:** [Import_Dharmik.umretiya](https://codeforces.com/profile/Import_Dharmik.umretiya)
 
 
 
 ### 🚀 Currently Learning
-
+---
 I'm expanding my knowledge in both backend and frontend technologies:
 
 ![My Skills](https://skillicons.dev/icons?i=py,mongodb,express,react,next,cpp,github,git,c)
@@ -18,7 +18,7 @@ I'm expanding my knowledge in both backend and frontend technologies:
 
 
 ### 🛠️ Main Skills
-
+---
 Technologies and tools I work with regularly:
 
 ![Main Skills](https://skillicons.dev/icons?i=notion)
@@ -26,6 +26,6 @@ Technologies and tools I work with regularly:
 
 
 ### 💼 My Projects
-
+---
 - 🚧 Work in progress—new projects coming soon!
 - 🚀 Stay tuned for updates!
