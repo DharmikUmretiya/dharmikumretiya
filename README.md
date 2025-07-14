@@ -11,6 +11,7 @@
 
 ### 🚀 Currently Learning
 ---
+
 I'm expanding my knowledge in both backend and frontend technologies:
 
 ![My Skills](https://skillicons.dev/icons?i=py,mongodb,express,react,next,cpp,github,git,c)
@@ -19,6 +20,7 @@ I'm expanding my knowledge in both backend and frontend technologies:
 
 ### 🛠️ Main Skills
 ---
+
 Technologies and tools I work with regularly:
 
 ![Main Skills](https://skillicons.dev/icons?i=notion)
@@ -27,5 +29,6 @@ Technologies and tools I work with regularly:
 
 ### 💼 My Projects
 ---
+
 - 🚧 Work in progress—new projects coming soon!
 - 🚀 Stay tuned for updates!
