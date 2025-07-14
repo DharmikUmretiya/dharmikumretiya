@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dharmikumretiya/dharmikumretiya/main/banner.png" />
+  <img src="https://github.com/DharmikUmretiya/dharmikumretiya/main/banner.png" />
 </p>
 
 
-- 📫 How to reach me: [email](dev.dharmikumretiya@gmail.com)
+- 📫 How to reach me: [email](dev.dharmikumretiya@gmail.com)1
