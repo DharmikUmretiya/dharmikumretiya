@@ -3,14 +3,12 @@
 
 <img src="https://github.com/DharmikUmretiya/dharmikumretiya/blob/main/main/Hi%20%2CI%20am%20Dharmik.png" alt="Banner" width="100%" />
 
-### My CP Profile
+## My CP Profile
 
----
 **Codeforces:** [Import_Dharmik.umretiya](https://codeforces.com/profile/Import_Dharmik.umretiya)
 
 
-### 💼 My Projects
+## 💼 My Projects
 
----
 - 🚧 Work in progress—new projects coming soon!
 - 🚀 Stay tuned for updates!
