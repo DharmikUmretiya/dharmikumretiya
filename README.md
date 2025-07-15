@@ -6,7 +6,8 @@
 ## My CP Profile
 
 **Codeforces:** [Import_Dharmik.umretiya](https://codeforces.com/profile/Import_Dharmik.umretiya)
-
+**If You Want to Learning Something From Me:** [My Personal Tech Wiki](https://github.com/DharmikUmretiya/dharmikumretiya/wiki)
+**Containes Topics Like:** MEARN , CP
 
 ## 💼 My Projects
 
