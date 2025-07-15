@@ -12,3 +12,5 @@
 
 - 🚧 Work in progress—new projects coming soon!
 - 🚀 Stay tuned for updates!
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=dharmikumretiya)
