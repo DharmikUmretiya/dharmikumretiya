@@ -9,7 +9,7 @@
 
 ## 💼 My Projects
 
-- 🚧 Work in progress—new projects coming soon!
-- 🚀 Stay tuned for updates!
+- [ConFab](https://github.com/DharmikUmretiya/Confab)
+- [MyRodamap](https://github.com/DharmikUmretiya/MyRoadmap)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dharmikumretiya)
